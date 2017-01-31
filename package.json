@@ -1,0 +1,21 @@
+{
+  "name": "@gregwiley/the-cloud",
+  "version": "1.0.0",
+  "description": "Cloud utiity and bootstrap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "aws-init-account": "bin/aws-init-account.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aztecrex/the-cloud.git"
+  },
+  "author": "Greg Wiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aztecrex/the-cloud/issues"
+  },
+  "homepage": "https://github.com/aztecrex/the-cloud#readme"
+}
