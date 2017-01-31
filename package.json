@@ -16,5 +16,6 @@
   },
   "homepage": "https://github.com/aztecrex/the-cloud#readme",
   "dependencies": {
+    "aws-sdk": "^2.9.0"
   }
 }
